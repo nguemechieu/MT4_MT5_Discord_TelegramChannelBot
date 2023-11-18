@@ -1,0 +1,1757 @@
+0	00:00:07.100	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	00:00:29.021	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	00:00:29.053	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328488378
+0	00:00:49.035	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	00:01:09.950	Zones USDJPY,H1: open #328536441 buy stop 0.01 USDTRY at 28.68927 sl: 28.58927 tp: 28.78927 ok
+0	00:01:09.950	Zones USDJPY,H1: INFO: Successfully sent order 328536441: USDTRY, buystop, 0.01, 28.68927
+0	00:01:20.766	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:01:20.766	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:01:31.604	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:01:31.608	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:01:31.625	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328488378
+0	00:01:43.649	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:01:43.652	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+2	00:01:56.475	Zones USDJPY,H1: open #328536484 buy stop 0.01 USDCHF at 0.88862 sl: 0.78862 tp: 0.98862 ok
+0	00:01:56.475	Zones USDJPY,H1: INFO: Successfully sent order 328536484: USDCHF, buystop, 0.01, 0.88862
+0	00:02:10.525	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	00:02:28.010	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	00:02:43.618	Zones USDJPY,H1: open #328536507 buy stop 0.01 EURUSD at 1.08373 sl: 0.98373 tp: 1.18373 ok
+0	00:02:43.618	Zones USDJPY,H1: INFO: Successfully sent order 328536507: EURUSD, buystop, 0.01, 1.08373
+0	00:02:43.634	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328488378
+2	00:02:57.959	Zones USDJPY,H1: open #328536508 buy stop 0.01 USDJPY at 151.302 sl: 151.202 tp: 151.402 ok
+0	00:02:57.959	Zones USDJPY,H1: INFO: Successfully sent order 328536508: USDJPY, buystop, 0.01, 151.302
+0	00:03:07.587	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:07.587	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:17.117	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:17.121	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:29.961	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:29.961	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:43.420	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:43.428	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:43.446	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328488378
+0	00:03:56.073	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:03:56.073	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:04:13.207	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	00:04:33.810	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	00:04:47.886	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	00:04:47.907	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328488378
+2	00:05:00.326	Zones USDJPY,H1: open #328536602 buy stop 0.01 USDNOK at 10.85643 sl: 10.75643 tp: 10.95643 ok
+0	00:05:00.326	Zones USDJPY,H1: INFO: Successfully sent order 328536602: USDNOK, buystop, 0.01, 10.85643
+0	00:05:11.827	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	00:05:24.133	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	00:05:41.520	Zones USDJPY,H1: open #328536618 buy stop 0.01 EURUSD at 1.08370 sl: 0.98370 tp: 1.18370 ok
+0	00:05:41.520	Zones USDJPY,H1: INFO: Successfully sent order 328536618: EURUSD, buystop, 0.01, 1.08370
+0	00:05:57.409	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	00:05:57.433	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328488378
+2	00:06:11.185	Zones USDJPY,H1: open #328536635 buy stop 0.01 USDCAD at 1.37062 sl: 1.27062 tp: 1.47062 ok
+0	00:06:11.185	Zones USDJPY,H1: INFO: Successfully sent order 328536635: USDCAD, buystop, 0.01, 1.37062
+0	00:06:22.761	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	00:06:38.399	Zones USDJPY,H1: open #328536637 buy stop 0.01 USDNOK at 10.85702 sl: 10.75702 tp: 10.95702 ok
+0	00:06:38.399	Zones USDJPY,H1: INFO: Successfully sent order 328536637: USDNOK, buystop, 0.01, 10.85702
+2	00:06:50.916	Zones USDJPY,H1: open #328536638 buy stop 0.01 USDSEK at 10.58239 sl: 10.48239 tp: 10.68239 ok
+0	00:06:50.916	Zones USDJPY,H1: INFO: Successfully sent order 328536638: USDSEK, buystop, 0.01, 10.58239
+2	00:07:06.434	Zones USDJPY,H1: open #328536642 buy stop 0.01 USDTRY at 28.69213 sl: 28.59213 tp: 28.79213 ok
+0	00:07:06.434	Zones USDJPY,H1: INFO: Successfully sent order 328536642: USDTRY, buystop, 0.01, 28.69213
+0	00:07:06.450	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328488378
+0	00:07:20.312	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:07:20.312	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:07:31.933	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:07:31.933	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:07:39.086	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	00:07:39.101	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:32:27.334	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:32:27.337	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:32:27.359	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328488378
+0	08:32:33.733	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:32:33.733	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:32:40.608	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:32:40.608	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:32:50.485	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:32:50.486	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:01.757	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:01.757	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:07.497	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:07.497	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:10.952	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:10.952	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:14.362	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:14.362	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:18.040	Zones USDJPY,H1: ERROR: OPEN_ORDER_MAXIMUM_NUMBER | Number of orders (100) larger than or equal to MaximumOrders (100).
+0	08:33:18.040	Zones USDJPY,H1: Number of orders (100) larger than or equal to MaximumOrders (100).
+0	09:20:58.640	Zones USDJPY,H1: INFO: Successfully subscribed to: EURUSD, USDJPY, USDCAD, USDCHF, USDNOK, USDSEK, USDTRY
+0	09:20:58.661	Zones USDJPY,H1: Chart already open (EURUSD, H1).
+0	09:20:58.884	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: EURUSD,H1
+0	09:20:58.887	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 3, command: GET_HISTORIC_DATA, content: EURUSD,H1,1697566858,1700162458 
+0	09:20:58.887	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 3, command: GET_HISTORIC_DATA, content: EURUSD,H1,1697566858,1700162458 
+0	09:20:58.899	Zones USDJPY,H1: INFO: Successfully read historic data for USDNOK_H1.
+0	09:20:59.259	Zones USDJPY,H1: Chart opened (USDSEK, H1).
+0	09:20:59.474	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDSEK,H1
+0	09:20:59.524	Zones USDJPY,H1: INFO: Successfully read historic data for USDSEK_H1.
+0	09:20:59.553	Zones USDJPY,H1: Chart already open (USDJPY, H1).
+0	09:20:59.783	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDJPY,H1
+0	09:20:59.807	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 5, command: GET_HISTORIC_DATA, content: USDJPY,H1,1697566858,1700162458 
+0	09:20:59.807	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 5, command: GET_HISTORIC_DATA, content: USDJPY,H1,1697566858,1700162458 
+0	09:21:00.201	Zones USDJPY,H1: Chart already open (USDTRY, H1).
+0	09:21:00.414	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDTRY,H1
+0	09:21:00.470	Zones USDJPY,H1: INFO: Successfully read historic data for USDTRY_H1.
+0	09:21:00.526	Zones USDJPY,H1: Resetting stored command IDs.
+0	09:24:34.247	Zones USDJPY,H1: INFO: Successfully subscribed to: EURUSD, USDJPY, USDCAD, USDCHF, USDNOK, USDSEK, USDTRY
+0	09:24:34.390	Zones USDJPY,H1: Chart already open (EURUSD, H1).
+0	09:24:34.605	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: EURUSD,H1
+0	09:24:34.657	Zones USDJPY,H1: INFO: Successfully read historic data for EURUSD_H1.
+0	09:24:34.664	Zones USDJPY,H1: Chart already open (USDJPY, H1).
+0	09:24:34.889	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDJPY,H1
+0	09:24:34.900	Zones USDJPY,H1: INFO: Successfully read historic data for USDJPY_H1.
+0	09:24:34.916	Zones USDJPY,H1: Chart already open (USDCAD, H1).
+0	09:24:35.123	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDCAD,H1
+0	09:24:35.134	Zones USDJPY,H1: INFO: Successfully read historic data for USDCAD_H1.
+0	09:24:35.470	Zones USDJPY,H1: Chart already open (USDCHF, H1).
+0	09:24:35.674	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDCHF,H1
+0	09:24:35.769	Zones USDJPY,H1: INFO: Successfully read historic data for USDCHF_H1.
+0	09:24:36.087	Zones USDJPY,H1: Chart already open (USDNOK, H1).
+0	09:24:36.309	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDNOK,H1
+0	09:24:36.309	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 6, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDCAD,H1 
+0	09:24:36.309	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 6, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDCAD,H1 
+0	09:24:36.412	Zones USDJPY,H1: Resetting stored command IDs.
+0	09:24:36.467	Zones USDJPY,H1: INFO: Successfully read historic data for USDCAD_H1.
+0	09:24:36.554	Zones USDJPY,H1: Chart already open (USDCHF, H1).
+0	09:24:36.771	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDCHF,H1
+0	09:24:36.821	Zones USDJPY,H1: INFO: Successfully read historic data for USDCHF_H1.
+0	09:24:36.894	Zones USDJPY,H1: Chart already open (USDNOK, H1).
+0	09:24:37.105	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDNOK,H1
+0	09:24:37.201	Zones USDJPY,H1: INFO: Successfully read historic data for USDNOK_H1.
+0	09:24:37.330	Zones USDJPY,H1: Chart already open (USDSEK, H1).
+0	09:24:37.587	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDSEK,H1
+0	09:24:37.657	Zones USDJPY,H1: INFO: Successfully read historic data for USDSEK_H1.
+0	09:24:37.705	Zones USDJPY,H1: Chart already open (USDTRY, H1).
+0	09:24:37.926	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDTRY,H1
+0	09:24:37.978	Zones USDJPY,H1: INFO: Successfully read historic data for USDTRY_H1.
+0	09:25:27.796	Zones USDJPY,H1: INFO: Successfully subscribed to: EURUSD, USDJPY, USDCAD, USDCHF, USDNOK, USDSEK, USDTRY
+0	09:25:27.963	Zones USDJPY,H1: Chart already open (EURUSD, H1).
+0	09:25:28.186	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: EURUSD,H1
+0	09:25:28.244	Zones USDJPY,H1: INFO: Successfully read historic data for EURUSD_H1.
+0	09:25:28.253	Zones USDJPY,H1: Chart already open (USDJPY, H1).
+0	09:25:28.472	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDJPY,H1
+0	09:25:28.595	Zones USDJPY,H1: Chart already open (USDCAD, H1).
+0	09:25:28.816	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDCAD,H1
+0	09:25:28.849	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 7, command: GET_HISTORIC_DATA, content: USDCAD,H1,1697567127,1700162727 
+0	09:25:28.849	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 7, command: GET_HISTORIC_DATA, content: USDCAD,H1,1697567127,1700162727 
+0	09:25:28.968	Zones USDJPY,H1: INFO: Successfully read historic data for USDJPY_H1.
+0	09:25:29.013	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 8, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDCHF,H1 
+0	09:25:29.013	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 8, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDCHF,H1 
+0	09:25:54.456	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 1, command: SUBSCRIBE_SYMBOLS, content: EURUSD,USDJPY,USDCAD,USDCHF,USDNOK,USDSEK,USDTRY 
+0	09:25:54.456	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 1, command: SUBSCRIBE_SYMBOLS, content: EURUSD,USDJPY,USDCAD,USDCHF,USDNOK,USDSEK,USDTRY 
+0	09:25:54.913	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 3, command: GET_HISTORIC_DATA, content: EURUSD,H1,1697567154,1700162754 
+0	09:25:54.913	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 3, command: GET_HISTORIC_DATA, content: EURUSD,H1,1697567154,1700162754 
+0	09:25:54.928	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 4, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDJPY,H1 
+0	09:25:54.928	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 4, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDJPY,H1 
+0	09:25:54.986	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 5, command: GET_HISTORIC_DATA, content: USDJPY,H1,1697567154,1700162754 
+0	09:25:54.986	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 5, command: GET_HISTORIC_DATA, content: USDJPY,H1,1697567154,1700162754 
+0	09:25:55.003	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 6, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDCAD,H1 
+0	09:25:55.003	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 6, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDCAD,H1 
+0	09:25:55.055	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 7, command: GET_HISTORIC_DATA, content: USDCAD,H1,1697567154,1700162754 
+0	09:25:55.055	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 7, command: GET_HISTORIC_DATA, content: USDCAD,H1,1697567154,1700162754 
+0	09:25:55.072	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 8, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDCHF,H1 
+0	09:25:55.072	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 8, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDCHF,H1 
+0	09:25:55.142	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 9, command: GET_HISTORIC_DATA, content: USDCHF,H1,1697567155,1700162755 
+0	09:25:55.142	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 9, command: GET_HISTORIC_DATA, content: USDCHF,H1,1697567155,1700162755 
+0	09:25:55.170	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 10, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDNOK,H1 
+0	09:25:55.170	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 10, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDNOK,H1 
+0	09:25:55.216	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 11, command: GET_HISTORIC_DATA, content: USDNOK,H1,1697567155,1700162755 
+0	09:25:55.216	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 11, command: GET_HISTORIC_DATA, content: USDNOK,H1,1697567155,1700162755 
+0	09:25:55.234	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 12, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDSEK,H1 
+0	09:25:55.234	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 12, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDSEK,H1 
+0	09:25:55.290	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 13, command: GET_HISTORIC_DATA, content: USDSEK,H1,1697567155,1700162755 
+0	09:25:55.290	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 13, command: GET_HISTORIC_DATA, content: USDSEK,H1,1697567155,1700162755 
+0	09:25:55.333	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 14, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDTRY,H1 
+0	09:25:55.333	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 14, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDTRY,H1 
+0	09:25:55.369	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 15, command: GET_HISTORIC_DATA, content: USDTRY,H1,1697567155,1700162755 
+0	09:25:55.369	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 15, command: GET_HISTORIC_DATA, content: USDTRY,H1,1697567155,1700162755 
+0	09:25:55.474	Zones USDJPY,H1: Resetting stored command IDs.
+0	09:25:55.492	Zones USDJPY,H1: Chart already open (EURUSD, H1).
+0	09:25:55.706	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: EURUSD,H1
+0	09:25:55.763	Zones USDJPY,H1: INFO: Successfully read historic data for USDSEK_H1.
+0	09:25:56.411	Zones USDJPY,H1: Chart already open (USDTRY, H1).
+0	09:25:56.632	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDTRY,H1
+0	09:25:56.690	Zones USDJPY,H1: INFO: Successfully read historic data for USDTRY_H1.
+0	09:25:56.701	Zones USDJPY,H1: Resetting stored command IDs.
+0	09:25:56.767	Zones USDJPY,H1: INFO: Successfully read historic data for USDCHF_H1.
+0	09:25:56.941	Zones USDJPY,H1: Chart already open (USDNOK, H1).
+0	09:25:57.161	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDNOK,H1
+0	09:25:57.189	Zones USDJPY,H1: INFO: Successfully read historic data for USDNOK_H1.
+0	09:25:57.284	Zones USDJPY,H1: Chart already open (USDSEK, H1).
+0	09:25:57.501	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDSEK,H1
+0	09:26:47.414	Zones USDJPY,H1: INFO: Successfully subscribed to: EURUSD, USDJPY, USDCAD, USDCHF, USDNOK, USDSEK, USDTRY
+0	09:26:47.452	Zones USDJPY,H1: Chart already open (EURUSD, H1).
+0	09:26:47.675	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: EURUSD,H1
+0	09:26:47.757	Zones USDJPY,H1: INFO: Successfully read historic data for EURUSD_H1.
+0	09:26:47.775	Zones USDJPY,H1: Chart already open (USDJPY, H1).
+0	09:26:47.988	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDJPY,H1
+0	09:26:48.069	Zones USDJPY,H1: INFO: Successfully read historic data for USDJPY_H1.
+0	09:26:48.120	Zones USDJPY,H1: Chart already open (USDCAD, H1).
+0	09:26:48.343	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDCAD,H1
+0	09:26:48.418	Zones USDJPY,H1: INFO: Successfully read historic data for USDCAD_H1.
+0	09:26:48.659	Zones USDJPY,H1: Chart already open (USDCHF, H1).
+0	09:26:48.869	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDCHF,H1
+0	09:26:48.882	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 9, command: GET_HISTORIC_DATA, content: USDCHF,H1,1697567207,1700162807 
+0	09:26:48.882	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 9, command: GET_HISTORIC_DATA, content: USDCHF,H1,1697567207,1700162807 
+0	09:26:48.915	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 11, command: GET_HISTORIC_DATA, content: USDNOK,H1,1697567207,1700162807 
+0	09:26:48.915	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 11, command: GET_HISTORIC_DATA, content: USDNOK,H1,1697567207,1700162807 
+0	09:27:04.241	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 2, command: OPEN_ORDER, content: USDJPY,sellstop,0.010000800944667928,150.905,150.918,150.894,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:04.211758,0 
+0	09:27:04.241	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 2, command: OPEN_ORDER, content: USDJPY,sellstop,0.010000800944667928,150.905,150.918,150.894,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:04.211758,0 
+0	09:27:12.777	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 3, command: OPEN_ORDER, content: USDCAD,sellstop,0.010000800944667928,1.3743,1.3873,1.3633000000000002,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:12.766063,0 
+0	09:27:12.777	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 3, command: OPEN_ORDER, content: USDCAD,sellstop,0.010000800944667928,1.3743,1.3873,1.3633000000000002,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:12.766063,0 
+0	09:27:24.444	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 4, command: OPEN_ORDER, content: USDCHF,sellstop,0.010000800944667928,0.88836,0.90136,0.87736,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:24.191907,0 
+0	09:27:24.444	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 4, command: OPEN_ORDER, content: USDCHF,sellstop,0.010000800944667928,0.88836,0.90136,0.87736,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:24.191907,0 
+0	09:27:38.580	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 5, command: OPEN_ORDER, content: USDNOK,sellstop,0.010000800944667928,10.87794,10.89094,10.866940000000001,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:38.503707,0 
+0	09:27:38.580	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 5, command: OPEN_ORDER, content: USDNOK,sellstop,0.010000800944667928,10.87794,10.89094,10.866940000000001,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:38.503707,0 
+0	09:27:49.838	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 6, command: OPEN_ORDER, content: USDSEK,sellstop,0.010000800944667928,10.58495,10.597949999999999,10.57395,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:49.795913,0 
+0	09:27:49.838	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 6, command: OPEN_ORDER, content: USDSEK,sellstop,0.010000800944667928,10.58495,10.597949999999999,10.57395,3041990,ZONES @sellstopTRADE 2023-11-16 14:27:49.795913,0 
+0	09:27:49.868	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 10, command: CLOSE_ORDER, content: 328530263,0.010000800944667928 
+0	09:27:49.868	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 10, command: CLOSE_ORDER, content: 328530263,0.010000800944667928 
+0	09:28:01.101	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 11, command: OPEN_ORDER, content: USDTRY,sellstop,0.010000800944667928,28.67804,28.69104,28.66704,3041990,ZONES @sellstopTRADE 2023-11-16 14:28:00.436511,0 
+0	09:28:01.101	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 11, command: OPEN_ORDER, content: USDTRY,sellstop,0.010000800944667928,28.67804,28.69104,28.66704,3041990,ZONES @sellstopTRADE 2023-11-16 14:28:00.436511,0 
+0	09:28:12.324	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 12, command: OPEN_ORDER, content: EURUSD,sellstop,0.010000800944667928,1.08598,1.0989799999999998,1.07498,3041990,ZONES @sellstopTRADE 2023-11-16 14:28:12.296370,0 
+0	09:28:12.324	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 12, command: OPEN_ORDER, content: EURUSD,sellstop,0.010000800944667928,1.08598,1.0989799999999998,1.07498,3041990,ZONES @sellstopTRADE 2023-11-16 14:28:12.296370,0 
+0	09:28:25.389	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:28:25.399	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 12, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDSEK,H1 
+0	09:28:25.399	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 12, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDSEK,H1 
+0	09:28:34.863	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:28:48.917	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:29:04.197	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:29:04.223	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:29:04.254	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 13, command: GET_HISTORIC_DATA, content: USDSEK,H1,1697567207,1700162807 
+0	09:29:04.254	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 13, command: GET_HISTORIC_DATA, content: USDSEK,H1,1697567207,1700162807 
+0	09:29:04.308	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:29:04.336	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:29:04.379	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:29:04.383	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 14, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDTRY,H1 
+0	09:29:04.383	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 14, command: SUBSCRIBE_SYMBOLS_BAR_DATA, content: USDTRY,H1 
+0	09:29:17.513	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:29:27.264	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:29:37.004	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:29:48.777	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:29:58.855	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:30:12.705	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:30:12.713	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:30:12.722	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:30:12.732	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:30:12.734	Zones USDJPY,H1: Not executing command because ID already exists. commandID: 15, command: GET_HISTORIC_DATA, content: USDTRY,H1,1697567207,1700162807 
+0	09:30:12.734	Zones USDJPY,H1: ERROR: ERROR | Not executing command because ID already exists. commandID: 15, command: GET_HISTORIC_DATA, content: USDTRY,H1,1697567207,1700162807 
+0	09:30:12.752	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:30:23.060	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:30:33.333	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:30:44.051	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:30:58.160	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:31:14.357	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:31:14.382	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:31:14.415	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:31:14.436	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:31:14.479	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:31:14.518	Zones USDJPY,H1: Resetting stored command IDs.
+0	09:31:14.534	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:31:14.550	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:31:14.581	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:31:14.628	Zones USDJPY,H1: Chart already open (USDNOK, H1).
+0	09:31:14.846	Zones USDJPY,H1: INFO: Successfully subscribed to bar data: USDNOK,H1
+0	09:31:24.751	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	09:31:39.459	Zones USDJPY,H1: open #328585438 sell stop 0.01 USDCHF at 0.88776 sl: 0.90076 tp: 0.87676 ok
+0	09:31:39.459	Zones USDJPY,H1: INFO: Successfully sent order 328585438: USDCHF, sellstop, 0.01, 0.88776
+2	09:31:51.249	Zones USDJPY,H1: open #328585447 sell stop 0.01 USDNOK at 10.86285 sl: 10.87585 tp: 10.85185 ok
+0	09:31:51.249	Zones USDJPY,H1: INFO: Successfully sent order 328585447: USDNOK, sellstop, 0.01, 10.86285
+2	09:32:01.171	Zones USDJPY,H1: open #328585522 sell stop 0.01 USDSEK at 10.57600 sl: 10.58900 tp: 10.56500 ok
+0	09:32:01.171	Zones USDJPY,H1: INFO: Successfully sent order 328585522: USDSEK, sellstop, 0.01, 10.57600
+0	09:32:12.574	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:32:24.583	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:32:24.605	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:32:24.647	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:32:24.668	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:32:24.699	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:32:36.868	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:32:48.211	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:33:02.698	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:33:15.179	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:33:26.742	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:33:26.775	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:33:26.808	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:33:26.847	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:33:26.867	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:33:37.964	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:33:50.319	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:34:03.418	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:34:16.496	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:34:26.881	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:34:26.908	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:34:26.937	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:34:26.962	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:34:26.985	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:34:40.280	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:34:56.500	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:35:06.802	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:35:19.729	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:35:30.820	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:35:30.855	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:35:30.896	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:35:30.944	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:35:30.992	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:35:46.949	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:36:00.772	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:36:12.303	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:36:24.744	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:36:36.820	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:36:36.851	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:36:36.886	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:36:36.919	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:36:36.953	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:36:56.074	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:37:08.964	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:37:20.119	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	09:37:30.793	Zones USDJPY,H1: open #328585987 sell stop 0.01 USDNOK at 10.86410 sl: 10.87710 tp: 10.85310 ok
+0	09:37:30.793	Zones USDJPY,H1: INFO: Successfully sent order 328585987: USDNOK, sellstop, 0.01, 10.86410
+0	09:37:46.081	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:37:46.115	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:37:46.130	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:37:46.162	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:37:46.319	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:38:01.087	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	09:38:16.371	Zones USDJPY,H1: open #328586047 sell stop 0.01 EURUSD at 1.08686 sl: 1.09986 tp: 1.07586 ok
+0	09:38:16.371	Zones USDJPY,H1: INFO: Successfully sent order 328586047: EURUSD, sellstop, 0.01, 1.08686
+0	09:38:27.305	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:38:38.396	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:38:51.589	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:38:51.605	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:38:51.637	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:38:51.668	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:38:51.700	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:39:06.486	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:39:20.598	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:39:29.901	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:39:39.080	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:39:50.128	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:40:01.463	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:40:01.494	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:40:01.525	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:40:01.557	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:40:01.588	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:40:11.888	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	09:40:24.501	Zones USDJPY,H1: open #328586245 sell stop 0.01 USDNOK at 10.85775 sl: 10.87075 tp: 10.84675 ok
+0	09:40:24.501	Zones USDJPY,H1: INFO: Successfully sent order 328586245: USDNOK, sellstop, 0.01, 10.85775
+2	09:40:34.593	Zones USDJPY,H1: open #328586248 sell stop 0.01 USDSEK at 10.56211 sl: 10.57511 tp: 10.55111 ok
+0	09:40:34.593	Zones USDJPY,H1: INFO: Successfully sent order 328586248: USDSEK, sellstop, 0.01, 10.56211
+0	09:40:46.701	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:40:58.655	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:41:11.282	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:41:11.311	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:41:11.346	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:41:11.386	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:41:11.417	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:41:28.327	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:41:40.557	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:41:52.055	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:42:00.801	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:42:08.981	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:42:16.071	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:42:16.073	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:42:16.081	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:42:16.089	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:42:16.094	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:42:24.386	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:42:34.170	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:42:46.840	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:42:57.902	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:43:11.951	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:43:28.467	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:43:28.470	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:43:28.486	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:43:28.517	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:43:28.548	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:43:42.381	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:43:55.259	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:44:08.918	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:44:18.386	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:44:29.531	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:44:29.531	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:44:29.540	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:44:29.540	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:44:29.556	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:44:38.467	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	09:44:50.630	Zones USDJPY,H1: open #328586623 sell stop 0.01 USDCAD at 1.37272 sl: 1.38572 tp: 1.36172 ok
+0	09:44:50.630	Zones USDJPY,H1: INFO: Successfully sent order 328586623: USDCAD, sellstop, 0.01, 1.37272
+2	09:45:03.006	Zones USDJPY,H1: open #328586711 sell stop 0.01 USDCHF at 0.88733 sl: 0.90033 tp: 0.87633 ok
+0	09:45:03.006	Zones USDJPY,H1: INFO: Successfully sent order 328586711: USDCHF, sellstop, 0.01, 0.88733
+2	09:45:19.197	Zones USDJPY,H1: open #328586731 sell stop 0.01 USDNOK at 10.85491 sl: 10.86791 tp: 10.84391 ok
+0	09:45:19.197	Zones USDJPY,H1: INFO: Successfully sent order 328586731: USDNOK, sellstop, 0.01, 10.85491
+0	09:45:30.528	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:45:30.528	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:45:30.546	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:45:30.583	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:45:30.631	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:45:41.839	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:45:55.643	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:46:09.026	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:46:20.052	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:46:33.545	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:46:33.545	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:46:33.560	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:46:33.594	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:46:33.627	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:46:50.399	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:47:07.167	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:47:25.215	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:47:38.498	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:47:38.526	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:47:38.563	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:47:38.596	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:47:38.640	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:47:59.760	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	09:48:17.686	Zones USDJPY,H1: open #328586979 sell stop 0.01 USDCAD at 1.37259 sl: 1.38559 tp: 1.36159 ok
+0	09:48:17.686	Zones USDJPY,H1: INFO: Successfully sent order 328586979: USDCAD, sellstop, 0.01, 1.37259
+0	09:48:37.964	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	09:48:51.410	Zones USDJPY,H1: open #328586988 sell stop 0.01 USDNOK at 10.84897 sl: 10.86197 tp: 10.83797 ok
+0	09:48:51.410	Zones USDJPY,H1: INFO: Successfully sent order 328586988: USDNOK, sellstop, 0.01, 10.84897
+0	09:48:51.437	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:48:51.473	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:48:51.508	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:48:51.536	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:49:09.415	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:49:25.347	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:49:42.024	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	09:49:58.487	Zones USDJPY,H1: open #328587143 sell stop 0.01 USDJPY at 150.638 sl: 150.651 tp: 150.627 ok
+0	09:49:58.487	Zones USDJPY,H1: INFO: Successfully sent order 328587143: USDJPY, sellstop, 0.01, 150.638
+0	09:49:58.502	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:49:58.536	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:49:58.581	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:49:58.596	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	09:50:11.241	Zones USDJPY,H1: open #328587169 sell stop 0.01 USDCAD at 1.37276 sl: 1.38576 tp: 1.36176 ok
+0	09:50:11.241	Zones USDJPY,H1: INFO: Successfully sent order 328587169: USDCAD, sellstop, 0.01, 1.37276
+2	09:50:22.087	Zones USDJPY,H1: open #328587174 sell stop 0.01 USDCHF at 0.88703 sl: 0.90003 tp: 0.87603 ok
+0	09:50:22.087	Zones USDJPY,H1: INFO: Successfully sent order 328587174: USDCHF, sellstop, 0.01, 0.88703
+2	09:50:35.391	Zones USDJPY,H1: open #328587183 sell stop 0.01 USDNOK at 10.84882 sl: 10.86182 tp: 10.83782 ok
+0	09:50:35.391	Zones USDJPY,H1: INFO: Successfully sent order 328587183: USDNOK, sellstop, 0.01, 10.84882
+2	09:50:54.688	Zones USDJPY,H1: open #328587197 sell stop 0.01 USDSEK at 10.55135 sl: 10.56435 tp: 10.54035 ok
+0	09:50:54.688	Zones USDJPY,H1: INFO: Successfully sent order 328587197: USDSEK, sellstop, 0.01, 10.55135
+0	09:51:11.674	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:51:11.676	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:51:11.688	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:51:11.696	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:51:11.702	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:51:31.055	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:51:52.696	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:52:10.114	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:52:25.649	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:52:25.678	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:52:25.715	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:52:25.850	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:52:25.947	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:52:41.959	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:52:56.085	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:53:09.527	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:53:21.674	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:53:35.696	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:53:35.704	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:53:35.712	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:53:35.720	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:53:35.731	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:53:47.386	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:54:00.578	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:54:10.378	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:54:23.049	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:54:38.307	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:54:38.323	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:54:38.331	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:54:38.347	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:54:38.355	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:54:55.238	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:55:10.695	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:55:27.442	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:55:40.846	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:55:40.878	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:55:40.911	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:55:40.950	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:55:40.990	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:55:56.696	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:56:10.233	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:56:27.358	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:56:42.259	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:56:42.267	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:56:42.285	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:56:42.323	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:56:42.340	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:56:56.440	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:57:11.960	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:57:28.744	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:57:44.699	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:57:44.739	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:57:44.804	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:57:44.836	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:57:44.885	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:58:01.932	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:58:18.390	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:58:32.119	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:58:44.473	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:58:56.361	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:58:56.386	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	09:58:56.418	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	09:58:56.450	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	09:58:56.483	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	09:59:11.442	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:59:25.453	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:59:38.279	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	09:59:51.888	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:00:04.938	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:00:04.946	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:00:04.954	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:00:04.962	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:00:04.973	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:00:21.877	Zones USDJPY,H1: open #328588081 sell stop 0.01 USDCAD at 1.37421 sl: 1.38721 tp: 1.36321 ok
+0	10:00:21.877	Zones USDJPY,H1: INFO: Successfully sent order 328588081: USDCAD, sellstop, 0.01, 1.37421
+0	10:00:36.968	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:00:49.998	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:01:06.911	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:01:06.943	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:01:06.975	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:01:07.009	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:01:07.048	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:01:20.520	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:01:34.365	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:01:47.240	Zones USDJPY,H1: open #328588223 sell stop 0.01 USDJPY at 150.548 sl: 150.561 tp: 150.537 ok
+0	10:01:47.240	Zones USDJPY,H1: INFO: Successfully sent order 328588223: USDJPY, sellstop, 0.01, 150.548
+0	10:02:00.669	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:02:13.358	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:02:13.365	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:02:13.373	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:02:13.381	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:02:13.387	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:02:34.311	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:02:53.553	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:03:05.881	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:03:18.239	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:03:18.270	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:03:18.302	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:03:18.349	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:03:18.380	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:03:32.813	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:03:46.707	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:04:02.323	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:04:16.280	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:04:33.042	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:04:33.060	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:04:33.094	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:04:33.124	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:04:33.144	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:04:45.333	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:04:58.187	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:05:09.946	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:05:27.255	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:05:41.165	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:05:41.170	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:05:41.177	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:05:41.184	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:05:41.190	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:05:53.341	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:06:02.474	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:06:15.282	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:06:25.786	Zones USDJPY,H1: open #328588693 sell stop 0.01 EURUSD at 1.08866 sl: 1.10166 tp: 1.07766 ok
+0	10:06:25.786	Zones USDJPY,H1: INFO: Successfully sent order 328588693: EURUSD, sellstop, 0.01, 1.08866
+0	10:06:40.934	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:06:54.418	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:06:54.426	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:06:54.434	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:06:54.442	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:06:54.450	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:07:05.730	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:07:21.816	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:07:37.818	Zones USDJPY,H1: open #328588796 sell stop 0.01 USDSEK at 10.53414 sl: 10.54714 tp: 10.52314 ok
+0	10:07:37.818	Zones USDJPY,H1: INFO: Successfully sent order 328588796: USDSEK, sellstop, 0.01, 10.53414
+0	10:07:52.745	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:08:08.739	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:08:08.792	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:08:08.843	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:08:08.874	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:08:08.909	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:08:19.428	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:08:30.976	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:08:46.366	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:09:02.573	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:09:15.761	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:09:15.802	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:09:15.948	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:09:15.964	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:09:15.972	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:09:28.268	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:09:40.018	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:09:51.566	Zones USDJPY,H1: open #328589010 sell stop 0.01 USDJPY at 150.519 sl: 150.532 tp: 150.508 ok
+0	10:09:51.566	Zones USDJPY,H1: INFO: Successfully sent order 328589010: USDJPY, sellstop, 0.01, 150.519
+0	10:10:03.061	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:10:11.588	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:10:19.258	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:10:19.258	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:10:19.270	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:10:19.294	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:10:19.334	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:10:29.756	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:10:44.636	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:11:03.915	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:11:18.103	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:11:31.252	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:11:31.263	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:11:31.263	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:11:31.278	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:11:31.278	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:11:42.173	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:11:54.366	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:12:01.963	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:12:19.548	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:12:34.059	Zones USDJPY,H1: open #328589250 sell stop 0.01 EURUSD at 1.08857 sl: 1.10157 tp: 1.07757 ok
+0	10:12:34.059	Zones USDJPY,H1: INFO: Successfully sent order 328589250: EURUSD, sellstop, 0.01, 1.08857
+0	10:12:34.066	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:12:34.076	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:12:34.090	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:12:34.100	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:12:47.967	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:13:02.800	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:13:12.103	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:13:24.485	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:13:35.669	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:13:35.685	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:13:35.968	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:13:36.015	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:13:36.063	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:13:45.809	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:13:56.738	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:14:07.475	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:14:18.664	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:14:31.948	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:14:48.645	Zones USDJPY,H1: open #328589481 sell stop 0.01 USDNOK at 10.85305 sl: 10.86605 tp: 10.84205 ok
+0	10:14:48.645	Zones USDJPY,H1: INFO: Successfully sent order 328589481: USDNOK, sellstop, 0.01, 10.85305
+0	10:14:48.668	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:14:48.703	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:14:48.744	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:14:48.824	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:15:02.892	Zones USDJPY,H1: open #328589542 sell stop 0.01 USDSEK at 10.53963 sl: 10.55263 tp: 10.52863 ok
+0	10:15:02.892	Zones USDJPY,H1: INFO: Successfully sent order 328589542: USDSEK, sellstop, 0.01, 10.53963
+0	10:15:15.419	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:15:26.115	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:15:37.055	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:15:46.650	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:16:00.280	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:16:00.292	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:16:00.299	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:16:00.313	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:16:00.328	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:16:16.378	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:16:30.565	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:16:43.140	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:16:53.110	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:17:01.061	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:17:01.069	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:17:01.077	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:17:01.086	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:17:01.101	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:17:13.264	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:17:23.517	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:17:37.764	Zones USDJPY,H1: open #328589708 sell stop 0.01 USDNOK at 10.85434 sl: 10.86734 tp: 10.84334 ok
+0	10:17:37.764	Zones USDJPY,H1: INFO: Successfully sent order 328589708: USDNOK, sellstop, 0.01, 10.85434
+2	10:17:49.450	Zones USDJPY,H1: open #328589714 sell stop 0.01 USDSEK at 10.54362 sl: 10.55662 tp: 10.53262 ok
+0	10:17:49.450	Zones USDJPY,H1: INFO: Successfully sent order 328589714: USDSEK, sellstop, 0.01, 10.54362
+0	10:18:02.299	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:18:02.307	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:18:02.316	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:18:02.316	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:18:02.331	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:18:12.209	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:18:25.171	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:18:33.979	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:18:49.162	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:19:02.016	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:19:13.366	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:19:13.366	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:19:13.379	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:19:13.379	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:19:13.395	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:19:23.210	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:19:32.928	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:19:45.908	Zones USDJPY,H1: open #328589870 sell stop 0.01 USDJPY at 150.463 sl: 150.476 tp: 150.452 ok
+0	10:19:45.908	Zones USDJPY,H1: INFO: Successfully sent order 328589870: USDJPY, sellstop, 0.01, 150.463
+2	10:19:56.982	Zones USDJPY,H1: open #328589874 sell stop 0.01 USDCAD at 1.37547 sl: 1.38847 tp: 1.36447 ok
+0	10:19:56.982	Zones USDJPY,H1: INFO: Successfully sent order 328589874: USDCAD, sellstop, 0.01, 1.37547
+0	10:20:08.119	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:20:23.113	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:20:23.129	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:20:23.176	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:20:23.208	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:20:23.224	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:20:33.738	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:20:45.494	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:20:57.524	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:21:10.447	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:21:21.849	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:21:28.775	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:21:28.775	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:21:28.791	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:21:28.791	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:21:28.791	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:21:40.007	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:21:49.814	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:22:02.028	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:22:13.224	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:22:27.504	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:22:37.628	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:22:37.635	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:22:37.637	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:22:37.657	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:22:37.667	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:22:50.770	Zones USDJPY,H1: open #328590059 sell stop 0.01 USDCHF at 0.88570 sl: 0.89870 tp: 0.87470 ok
+0	10:22:50.770	Zones USDJPY,H1: INFO: Successfully sent order 328590059: USDCHF, sellstop, 0.01, 0.88570
+0	10:23:04.064	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:23:15.041	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:23:27.794	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:23:38.366	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:23:38.378	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:23:38.409	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:23:38.440	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:23:38.472	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:23:49.349	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:23:58.358	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:24:11.197	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:24:23.490	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:24:38.897	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:24:38.919	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:24:38.950	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:24:38.997	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:24:39.028	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:24:50.829	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:25:02.847	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:25:15.542	Zones USDJPY,H1: open #328590271 sell stop 0.01 USDJPY at 150.371 sl: 150.384 tp: 150.360 ok
+0	10:25:15.542	Zones USDJPY,H1: INFO: Successfully sent order 328590271: USDJPY, sellstop, 0.01, 150.371
+0	10:25:25.099	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:25:35.532	Zones USDJPY,H1: open #328590274 sell stop 0.01 USDCHF at 0.88562 sl: 0.89862 tp: 0.87462 ok
+0	10:25:35.532	Zones USDJPY,H1: INFO: Successfully sent order 328590274: USDCHF, sellstop, 0.01, 0.88562
+0	10:25:45.936	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:25:45.967	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:25:46.014	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:25:46.061	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:25:46.093	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:26:00.343	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:26:14.136	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:26:25.564	Zones USDJPY,H1: open #328590333 sell stop 0.01 EURUSD at 1.08908 sl: 1.10208 tp: 1.07808 ok
+0	10:26:25.564	Zones USDJPY,H1: INFO: Successfully sent order 328590333: EURUSD, sellstop, 0.01, 1.08908
+0	10:26:36.434	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:26:47.274	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:26:47.274	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:26:47.290	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:26:47.290	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:26:47.306	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:26:57.881	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:27:09.595	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:27:20.011	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:27:33.509	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:27:45.269	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:27:56.281	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:27:56.297	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:27:56.344	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:27:56.375	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:27:56.407	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:28:09.000	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:28:25.232	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:28:36.326	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:28:49.618	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:29:01.334	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:29:01.343	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:29:01.352	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:29:01.361	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:29:01.369	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:29:14.013	Zones USDJPY,H1: open #328590543 sell stop 0.01 EURUSD at 1.08906 sl: 1.10206 tp: 1.07806 ok
+0	10:29:14.013	Zones USDJPY,H1: INFO: Successfully sent order 328590543: EURUSD, sellstop, 0.01, 1.08906
+0	10:29:27.229	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:29:40.374	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:29:52.015	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:30:03.528	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:30:03.544	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:30:03.575	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:30:03.613	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:30:03.639	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:30:11.491	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:30:22.504	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:30:35.341	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:30:46.539	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:30:58.276	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:31:11.753	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:31:11.784	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:31:11.800	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:31:11.831	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:31:11.863	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:31:25.623	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:31:35.488	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:31:46.198	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:31:56.882	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:32:07.801	Zones USDJPY,H1: open #328590854 sell stop 0.01 USDJPY at 150.306 sl: 150.319 tp: 150.295 ok
+0	10:32:07.801	Zones USDJPY,H1: INFO: Successfully sent order 328590854: USDJPY, sellstop, 0.01, 150.306
+0	10:32:21.862	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:32:21.893	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:32:21.925	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:32:21.972	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:32:21.988	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:32:32.981	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:32:47.399	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:32:58.161	Zones USDJPY,H1: open #328590880 sell stop 0.01 USDSEK at 10.52459 sl: 10.53759 tp: 10.51359 ok
+0	10:32:58.161	Zones USDJPY,H1: INFO: Successfully sent order 328590880: USDSEK, sellstop, 0.01, 10.52459
+0	10:33:12.075	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:33:25.290	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:33:25.316	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:33:25.353	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:33:25.399	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:33:25.416	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:33:36.127	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:33:46.808	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:33:58.019	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:34:09.865	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:34:23.094	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:34:33.746	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:34:33.751	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:34:33.762	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:34:33.762	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:34:33.762	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:34:44.725	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:34:58.923	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:35:11.906	Zones USDJPY,H1: open #328591109 sell stop 0.01 USDCAD at 1.37411 sl: 1.38711 tp: 1.36311 ok
+0	10:35:11.906	Zones USDJPY,H1: INFO: Successfully sent order 328591109: USDCAD, sellstop, 0.01, 1.37411
+2	10:35:23.858	Zones USDJPY,H1: open #328591114 sell stop 0.01 USDCHF at 0.88598 sl: 0.89898 tp: 0.87498 ok
+0	10:35:23.858	Zones USDJPY,H1: INFO: Successfully sent order 328591114: USDCHF, sellstop, 0.01, 0.88598
+2	10:35:36.020	Zones USDJPY,H1: open #328591119 sell stop 0.01 USDNOK at 10.84485 sl: 10.85785 tp: 10.83385 ok
+0	10:35:36.020	Zones USDJPY,H1: INFO: Successfully sent order 328591119: USDNOK, sellstop, 0.01, 10.84485
+0	10:35:36.040	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:35:36.082	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:35:36.129	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:35:36.161	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:35:46.844	Zones USDJPY,H1: open #328591123 sell stop 0.01 USDSEK at 10.53222 sl: 10.54522 tp: 10.52122 ok
+0	10:35:46.844	Zones USDJPY,H1: INFO: Successfully sent order 328591123: USDSEK, sellstop, 0.01, 10.53222
+0	10:35:53.617	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:36:02.676	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:36:16.173	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:36:31.875	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:36:44.585	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:36:44.616	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:36:44.654	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:36:44.695	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:36:44.790	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:37:01.828	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:37:14.758	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:37:23.713	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:37:41.465	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:38:00.232	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:38:00.240	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:38:00.273	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:38:00.315	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:38:00.354	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:38:14.587	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:38:26.008	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:38:37.159	Zones USDJPY,H1: open #328591286 sell stop 0.01 USDNOK at 10.84986 sl: 10.86286 tp: 10.83886 ok
+0	10:38:37.159	Zones USDJPY,H1: INFO: Successfully sent order 328591286: USDNOK, sellstop, 0.01, 10.84986
+0	10:38:48.171	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:39:02.683	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:39:02.714	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:39:02.746	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:39:02.762	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:39:02.793	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:39:16.383	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:39:32.154	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:39:44.707	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:39:56.458	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:40:06.852	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:40:06.852	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:40:06.860	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:40:06.860	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:40:06.878	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:40:18.093	Zones USDJPY,H1: open #328591407 sell stop 0.01 USDSEK at 10.53987 sl: 10.55287 tp: 10.52887 ok
+0	10:40:18.093	Zones USDJPY,H1: INFO: Successfully sent order 328591407: USDSEK, sellstop, 0.01, 10.53987
+0	10:40:26.703	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:40:39.053	Zones USDJPY,H1: open #328591417 sell stop 0.01 EURUSD at 1.08851 sl: 1.10151 tp: 1.07751 ok
+0	10:40:39.053	Zones USDJPY,H1: INFO: Successfully sent order 328591417: EURUSD, sellstop, 0.01, 1.08851
+0	10:40:52.202	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:41:06.043	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:41:15.119	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:41:15.119	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:41:15.135	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:41:15.150	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:41:15.150	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:41:26.461	Zones USDJPY,H1: open #328591480 sell stop 0.01 USDNOK at 10.85869 sl: 10.87169 tp: 10.84769 ok
+0	10:41:26.461	Zones USDJPY,H1: INFO: Successfully sent order 328591480: USDNOK, sellstop, 0.01, 10.85869
+2	10:41:41.289	Zones USDJPY,H1: open #328591498 sell stop 0.01 USDSEK at 10.54515 sl: 10.55815 tp: 10.53415 ok
+0	10:41:41.289	Zones USDJPY,H1: INFO: Successfully sent order 328591498: USDSEK, sellstop, 0.01, 10.54515
+0	10:41:50.305	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:42:04.834	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:42:16.588	Zones USDJPY,H1: open #328591548 sell stop 0.01 USDCAD at 1.37452 sl: 1.38752 tp: 1.36352 ok
+0	10:42:16.588	Zones USDJPY,H1: INFO: Successfully sent order 328591548: USDCAD, sellstop, 0.01, 1.37452
+0	10:42:16.620	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:42:16.651	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:42:16.683	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:42:16.729	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:42:29.143	Zones USDJPY,H1: open #328591564 sell stop 0.01 USDCHF at 0.88682 sl: 0.89982 tp: 0.87582 ok
+0	10:42:29.143	Zones USDJPY,H1: INFO: Successfully sent order 328591564: USDCHF, sellstop, 0.01, 0.88682
+0	10:42:38.914	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:42:49.599	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:43:01.710	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:43:13.169	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:43:28.530	Zones USDJPY,H1: open #328591614 sell stop 0.01 USDJPY at 150.471 sl: 150.484 tp: 150.460 ok
+0	10:43:28.530	Zones USDJPY,H1: INFO: Successfully sent order 328591614: USDJPY, sellstop, 0.01, 150.471
+0	10:43:28.530	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:43:28.546	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:43:28.546	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:43:28.562	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:43:42.825	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:43:56.305	Zones USDJPY,H1: open #328591638 sell stop 0.01 USDCHF at 0.88701 sl: 0.90001 tp: 0.87601 ok
+0	10:43:56.305	Zones USDJPY,H1: INFO: Successfully sent order 328591638: USDCHF, sellstop, 0.01, 0.88701
+2	10:44:07.159	Zones USDJPY,H1: open #328591678 sell stop 0.01 USDNOK at 10.86832 sl: 10.88132 tp: 10.85732 ok
+0	10:44:07.159	Zones USDJPY,H1: INFO: Successfully sent order 328591678: USDNOK, sellstop, 0.01, 10.86832
+2	10:44:21.594	Zones USDJPY,H1: open #328591703 sell stop 0.01 USDSEK at 10.55578 sl: 10.56878 tp: 10.54478 ok
+0	10:44:21.594	Zones USDJPY,H1: INFO: Successfully sent order 328591703: USDSEK, sellstop, 0.01, 10.55578
+0	10:44:34.786	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:44:34.789	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:44:34.794	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:44:34.803	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:44:34.809	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:44:45.381	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:44:56.357	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:45:09.284	Zones USDJPY,H1: open #328591791 sell stop 0.01 USDCAD at 1.37514 sl: 1.38814 tp: 1.36414 ok
+0	10:45:09.284	Zones USDJPY,H1: INFO: Successfully sent order 328591791: USDCAD, sellstop, 0.01, 1.37514
+2	10:45:18.382	Zones USDJPY,H1: open #328591827 sell stop 0.01 USDCHF at 0.88733 sl: 0.90033 tp: 0.87633 ok
+0	10:45:18.382	Zones USDJPY,H1: INFO: Successfully sent order 328591827: USDCHF, sellstop, 0.01, 0.88733
+2	10:45:27.226	Zones USDJPY,H1: open #328591831 sell stop 0.01 USDNOK at 10.87625 sl: 10.88925 tp: 10.86525 ok
+0	10:45:27.226	Zones USDJPY,H1: INFO: Successfully sent order 328591831: USDNOK, sellstop, 0.01, 10.87625
+2	10:45:38.679	Zones USDJPY,H1: open #328591833 sell stop 0.01 USDSEK at 10.56109 sl: 10.57409 tp: 10.55009 ok
+0	10:45:38.679	Zones USDJPY,H1: INFO: Successfully sent order 328591833: USDSEK, sellstop, 0.01, 10.56109
+0	10:45:38.694	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:45:38.694	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:45:38.710	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:45:38.710	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:45:51.683	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:46:08.142	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:46:17.748	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:46:29.310	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:46:40.337	Zones USDJPY,H1: open #328591893 sell stop 0.01 USDCHF at 0.88748 sl: 0.90048 tp: 0.87648 ok
+0	10:46:40.337	Zones USDJPY,H1: INFO: Successfully sent order 328591893: USDCHF, sellstop, 0.01, 0.88748
+0	10:46:40.354	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:46:40.400	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:46:40.432	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:46:40.463	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:46:50.279	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:47:01.815	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:47:14.962	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:47:24.293	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:47:36.955	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:47:50.059	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:47:50.059	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:47:50.073	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:47:50.073	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:47:50.085	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:48:05.576	Zones USDJPY,H1: open #328591996 sell stop 0.01 USDCHF at 0.88749 sl: 0.90049 tp: 0.87649 ok
+0	10:48:05.576	Zones USDJPY,H1: INFO: Successfully sent order 328591996: USDCHF, sellstop, 0.01, 0.88749
+0	10:48:23.150	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:48:36.091	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:48:49.199	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:48:59.483	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:48:59.510	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:48:59.543	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:48:59.575	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:48:59.603	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:49:15.179	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:49:27.368	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:49:39.714	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:49:49.859	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:50:04.541	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:50:04.541	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:50:04.549	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:50:04.549	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:50:04.565	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:50:19.361	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:50:32.760	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:50:50.607	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:50:59.873	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:51:12.498	Zones USDJPY,H1: open #328592247 sell stop 0.01 USDCHF at 0.88747 sl: 0.90047 tp: 0.87647 ok
+0	10:51:12.498	Zones USDJPY,H1: INFO: Successfully sent order 328592247: USDCHF, sellstop, 0.01, 0.88747
+0	10:51:12.498	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:51:12.498	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:51:12.513	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:51:12.513	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	10:51:25.411	Zones USDJPY,H1: open #328592248 sell stop 0.01 USDNOK at 10.87564 sl: 10.88864 tp: 10.86464 ok
+0	10:51:25.411	Zones USDJPY,H1: INFO: Successfully sent order 328592248: USDNOK, sellstop, 0.01, 10.87564
+2	10:51:36.925	Zones USDJPY,H1: open #328592254 sell stop 0.01 USDSEK at 10.56115 sl: 10.57415 tp: 10.55015 ok
+0	10:51:36.925	Zones USDJPY,H1: INFO: Successfully sent order 328592254: USDSEK, sellstop, 0.01, 10.56115
+2	10:51:49.574	Zones USDJPY,H1: open #328592259 sell stop 0.01 USDTRY at 28.66470 sl: 28.67770 tp: 28.65370 ok
+0	10:51:49.574	Zones USDJPY,H1: INFO: Successfully sent order 328592259: USDTRY, sellstop, 0.01, 28.66470
+0	10:52:01.942	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:52:15.443	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:52:15.443	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:52:15.458	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:52:15.458	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:52:15.475	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:52:26.464	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:52:38.904	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	10:52:51.582	Zones USDJPY,H1: open #328592344 sell stop 0.01 USDNOK at 10.87800 sl: 10.89100 tp: 10.86700 ok
+0	10:52:51.582	Zones USDJPY,H1: INFO: Successfully sent order 328592344: USDNOK, sellstop, 0.01, 10.87800
+2	10:53:09.440	Zones USDJPY,H1: open #328592412 sell stop 0.01 USDSEK at 10.56384 sl: 10.57684 tp: 10.55284 ok
+0	10:53:09.440	Zones USDJPY,H1: INFO: Successfully sent order 328592412: USDSEK, sellstop, 0.01, 10.56384
+0	10:53:22.263	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:53:22.271	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:53:22.271	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:53:22.302	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:53:22.349	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:53:35.702	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:53:47.977	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:54:01.095	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:54:14.594	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:54:26.405	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:54:26.437	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:54:26.468	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:54:26.515	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:54:26.547	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:54:41.923	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:54:54.167	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:55:09.755	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:55:26.404	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:55:26.404	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:55:26.420	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:55:26.458	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:55:26.483	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:55:36.162	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:55:48.256	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:55:58.373	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:56:09.685	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:56:21.848	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:56:35.831	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:56:35.831	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:56:35.847	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:56:35.862	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:56:35.878	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:56:47.636	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:56:58.586	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:57:08.721	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:57:17.268	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:57:31.544	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:57:42.840	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:57:42.840	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:57:42.856	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:57:42.856	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:57:42.856	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:57:56.805	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:58:07.491	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:58:18.177	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:58:30.055	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:58:39.578	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:58:48.525	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:58:48.550	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:58:48.581	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:58:48.597	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:58:48.628	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:59:02.481	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:59:12.486	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:59:25.572	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:59:38.372	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:59:50.677	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	10:59:50.677	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	10:59:50.689	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	10:59:50.689	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	10:59:50.689	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	10:59:59.567	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:00:09.402	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:00:21.267	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:00:32.754	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:00:42.521	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:00:55.301	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:00:55.312	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:00:55.344	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:00:55.375	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:00:55.407	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:01:06.264	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	11:01:19.253	Zones USDJPY,H1: open #328592997 sell stop 0.01 USDSEK at 10.56635 sl: 10.57935 tp: 10.55535 ok
+0	11:01:19.253	Zones USDJPY,H1: INFO: Successfully sent order 328592997: USDSEK, sellstop, 0.01, 10.56635
+0	11:01:31.792	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:01:43.733	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:01:53.477	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:02:05.009	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:02:05.025	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:02:05.025	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:02:05.044	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:02:05.044	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:02:12.390	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:02:21.612	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:02:31.415	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:02:41.403	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:02:53.057	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:03:02.472	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:03:13.386	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:03:13.386	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:03:13.402	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:03:13.402	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:03:13.418	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:03:27.820	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:03:41.762	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:03:51.109	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:04:01.586	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:04:13.435	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:04:26.347	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:04:26.378	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:04:26.441	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:04:26.456	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:04:26.488	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:04:36.847	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:04:49.460	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:04:59.153	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:05:10.161	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:05:24.881	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:05:36.788	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:05:36.850	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:05:36.882	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:05:36.913	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:05:36.969	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:05:47.279	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:05:59.133	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:06:09.939	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:06:23.780	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:06:31.103	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:06:39.566	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:06:39.582	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:06:39.613	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:06:39.645	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:06:39.676	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:06:51.284	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:07:01.969	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:07:15.273	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:07:30.120	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:07:38.161	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:07:53.332	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:07:53.339	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:07:53.339	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:07:53.351	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:07:53.351	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:08:03.071	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:08:15.440	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:08:26.303	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:08:36.622	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:08:48.108	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:09:00.767	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:09:00.790	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:09:00.821	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:09:00.853	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:09:00.884	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:09:16.466	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:09:24.302	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:09:36.899	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:09:47.519	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:09:59.068	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:10:10.232	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:10:10.232	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:10:10.242	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:10:10.242	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:10:10.258	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+2	11:10:21.976	Zones USDJPY,H1: open #328593693 sell stop 0.01 USDSEK at 10.56254 sl: 10.57554 tp: 10.55154 ok
+0	11:10:21.976	Zones USDJPY,H1: INFO: Successfully sent order 328593693: USDSEK, sellstop, 0.01, 10.56254
+0	11:10:33.115	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	11:10:41.793	Zones USDJPY,H1: open #328593697 sell stop 0.01 EURUSD at 1.08800 sl: 1.10100 tp: 1.07700 ok
+0	11:10:41.793	Zones USDJPY,H1: INFO: Successfully sent order 328593697: EURUSD, sellstop, 0.01, 1.08800
+0	11:10:51.061	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:11:01.906	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:11:15.893	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:11:15.893	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:11:15.909	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:11:15.909	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:11:15.924	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:11:28.145	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:11:43.053	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:11:53.971	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:12:04.621	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:12:17.537	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:12:17.560	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:12:17.599	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:12:17.632	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:12:17.664	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:12:27.357	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:12:41.419	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	11:12:51.328	Zones USDJPY,H1: open #328593873 sell stop 0.01 USDNOK at 10.87738 sl: 10.89038 tp: 10.86638 ok
+0	11:12:51.328	Zones USDJPY,H1: INFO: Successfully sent order 328593873: USDNOK, sellstop, 0.01, 10.87738
+2	11:13:06.718	Zones USDJPY,H1: open #328593907 sell stop 0.01 USDSEK at 10.56643 sl: 10.57943 tp: 10.55543 ok
+0	11:13:06.718	Zones USDJPY,H1: INFO: Successfully sent order 328593907: USDSEK, sellstop, 0.01, 10.56643
+0	11:13:21.503	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:13:21.504	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:13:21.514	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:13:21.514	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:13:21.514	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:13:31.143	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:13:41.505	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:13:53.836	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:14:06.952	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:14:16.768	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:14:24.731	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:14:24.747	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:14:24.794	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:14:24.847	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:14:24.871	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:14:35.303	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:14:50.468	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:15:03.865	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:15:19.357	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:15:29.691	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:15:29.722	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:15:29.754	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:15:29.785	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:15:29.817	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:15:41.456	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	11:15:55.473	Zones USDJPY,H1: open #328594034 sell stop 0.01 USDSEK at 10.57115 sl: 10.58415 tp: 10.56015 ok
+0	11:15:55.473	Zones USDJPY,H1: INFO: Successfully sent order 328594034: USDSEK, sellstop, 0.01, 10.57115
+0	11:16:05.982	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:16:18.407	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:16:28.246	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:16:40.843	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:16:40.843	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:16:40.858	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:16:40.874	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:16:40.874	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	11:16:52.594	Zones USDJPY,H1: open #328594158 sell stop 0.01 USDCHF at 0.88709 sl: 0.90009 tp: 0.87609 ok
+0	11:16:52.594	Zones USDJPY,H1: INFO: Successfully sent order 328594158: USDCHF, sellstop, 0.01, 0.88709
+0	11:17:00.148	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	11:17:10.096	Zones USDJPY,H1: open #328594210 sell stop 0.01 USDSEK at 10.57695 sl: 10.58995 tp: 10.56595 ok
+0	11:17:10.096	Zones USDJPY,H1: INFO: Successfully sent order 328594210: USDSEK, sellstop, 0.01, 10.57695
+0	11:17:19.178	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:17:31.528	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:17:45.219	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:17:45.242	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:17:45.274	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:17:45.314	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:17:45.330	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:17:54.635	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:18:00.825	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:18:10.579	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:18:20.934	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:18:33.316	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:18:45.425	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:18:45.426	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:18:45.439	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:18:45.439	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:18:45.464	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	11:19:02.034	Zones USDJPY,H1: open #328594361 sell stop 0.01 USDJPY at 150.457 sl: 150.470 tp: 150.446 ok
+0	11:19:02.034	Zones USDJPY,H1: INFO: Successfully sent order 328594361: USDJPY, sellstop, 0.01, 150.457
+0	11:19:09.637	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:19:19.487	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	11:19:32.094	Zones USDJPY,H1: open #328594368 sell stop 0.01 USDNOK at 10.88830 sl: 10.90130 tp: 10.87730 ok
+0	11:19:32.094	Zones USDJPY,H1: INFO: Successfully sent order 328594368: USDNOK, sellstop, 0.01, 10.88830
+2	11:19:49.894	Zones USDJPY,H1: open #328594376 sell stop 0.01 USDSEK at 10.58284 sl: 10.59584 tp: 10.57184 ok
+0	11:19:49.894	Zones USDJPY,H1: INFO: Successfully sent order 328594376: USDSEK, sellstop, 0.01, 10.58284
+0	11:19:49.916	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:19:49.951	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:19:49.988	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:19:50.007	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	11:20:00.710	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:20:14.934	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:20:25.520	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:20:37.108	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:20:56.439	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:20:56.464	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:20:56.487	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:20:56.512	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:20:56.536	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	11:21:13.278	Zones USDJPY,H1: open #328594509 sell stop 0.01 USDNOK at 10.89500 sl: 10.90800 tp: 10.88400 ok
+0	11:21:13.278	Zones USDJPY,H1: INFO: Successfully sent order 328594509: USDNOK, sellstop, 0.01, 10.89500
+0	11:21:27.607	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:21:43.414	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:21:56.240	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:22:02.299	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	11:22:02.299	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	11:22:02.330	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	11:22:02.346	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	11:22:02.377	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	14:22:03.572	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: common error
+0	14:22:03.572	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	14:22:03.588	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	14:22:03.588	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	14:22:03.604	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	14:22:07.217	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	14:22:10.898	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: common error
+0	20:24:01.496	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:24:01.553	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:24:01.594	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:24:01.844	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:24:02.018	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:24:14.564	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:24:23.794	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:24:27.102	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:24:33.147	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:24:43.563	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:24:53.689	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:25:03.010	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:25:03.010	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:25:03.010	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:25:03.026	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:25:03.032	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:25:10.097	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:28:23.156	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:28:23.156	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:28:23.156	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:28:23.172	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:28:23.172	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:28:31.594	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:28:41.154	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:28:49.136	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:28:58.718	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:29:09.719	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:29:17.699	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:29:27.153	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:29:27.184	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:29:27.216	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:29:27.247	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:29:27.279	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:29:47.813	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:30:11.561	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:30:35.303	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:30:35.326	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:30:35.369	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:30:35.401	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:30:35.440	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:30:54.732	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:31:11.918	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:31:28.155	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:31:51.239	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:31:51.273	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:31:51.323	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:31:51.370	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:31:51.407	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	20:32:13.321	Zones USDJPY,H1: open #328633619 sell stop 0.01 USDCAD at 1.37500 sl: 1.38800 tp: 1.36400 ok
+0	20:32:13.321	Zones USDJPY,H1: INFO: Successfully sent order 328633619: USDCAD, sellstop, 0.01, 1.37500
+2	20:32:30.389	Zones USDJPY,H1: open #328633633 sell stop 0.01 USDCHF at 0.88889 sl: 0.90189 tp: 0.87789 ok
+0	20:32:30.389	Zones USDJPY,H1: INFO: Successfully sent order 328633633: USDCHF, sellstop, 0.01, 0.88889
+0	20:32:47.407	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:33:03.429	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:33:03.450	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:33:03.483	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:33:03.520	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:33:03.552	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:33:21.285	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:33:43.141	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:34:08.616	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:34:08.736	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:34:08.869	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:34:08.959	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:34:09.086	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:34:38.529	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:35:12.916	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:35:12.984	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:35:13.030	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:35:13.068	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:35:13.101	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:35:38.081	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:36:04.394	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:36:28.653	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:36:28.684	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:36:28.794	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:36:28.825	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:36:28.857	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:36:47.341	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:37:04.627	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:37:17.789	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:37:29.990	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:37:29.998	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:37:30.007	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:37:30.015	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:37:30.023	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:37:45.797	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:37:57.735	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:38:07.643	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:38:16.876	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:38:27.788	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:38:39.556	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:38:39.572	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:38:39.603	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:38:39.628	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:38:39.681	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:38:50.700	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:38:57.754	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:39:06.597	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:39:19.952	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:39:29.646	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:39:39.675	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:39:39.687	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:39:39.718	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:39:39.749	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:39:39.781	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:39:50.121	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:40:00.262	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:40:08.863	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:40:22.223	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:40:32.811	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:40:42.516	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:40:42.516	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:40:42.531	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:40:42.552	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:40:42.578	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:40:54.160	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:41:09.949	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:41:19.565	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:41:27.039	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:41:36.266	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:41:47.247	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:41:47.262	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:41:47.293	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:41:47.309	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:41:47.340	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:41:55.005	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:42:06.776	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:42:17.088	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:42:29.427	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:42:38.068	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:42:47.901	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:42:47.933	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:42:47.948	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:42:47.996	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:42:48.011	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:42:58.237	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:43:07.040	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:43:16.686	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:43:26.990	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:43:38.574	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:43:52.879	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:43:52.879	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:43:52.879	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:43:52.895	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:43:52.895	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:44:04.329	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:44:17.157	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:44:30.088	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:44:46.407	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:44:55.593	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:44:55.593	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:44:55.593	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:44:55.608	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:44:55.608	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:45:06.521	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:45:16.281	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:45:26.230	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:45:36.971	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:45:46.113	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:45:55.098	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:46:06.302	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:46:06.302	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:46:06.316	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:46:06.318	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:46:06.318	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:46:15.968	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:46:26.715	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:46:37.182	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:46:48.511	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:46:57.042	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:47:06.026	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:47:18.958	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:47:18.974	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:47:19.005	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:47:19.021	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:47:19.052	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:47:30.628	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:47:40.280	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:47:49.076	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:47:58.078	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:48:06.372	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:48:18.864	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:48:32.559	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:48:32.575	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:48:32.606	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:48:32.643	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:48:32.679	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:48:46.981	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:48:57.886	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:49:08.063	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:49:19.412	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:49:31.115	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:49:40.992	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:49:40.999	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:49:41.008	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:49:41.024	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:49:41.087	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:49:50.463	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:50:05.606	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:50:24.333	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:50:41.976	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:50:41.993	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:50:42.026	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:50:42.050	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:50:42.074	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+2	20:50:58.151	Zones USDJPY,H1: open #328634965 sell stop 0.01 USDJPY at 150.587 sl: 150.600 tp: 150.576 ok
+0	20:50:58.151	Zones USDJPY,H1: INFO: Successfully sent order 328634965: USDJPY, sellstop, 0.01, 150.587
+0	20:51:13.072	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:51:27.935	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:51:39.934	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:51:54.937	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:51:54.955	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:51:54.997	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:51:55.028	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:51:55.054	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:52:12.353	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:52:26.990	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:52:38.348	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:52:52.712	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:53:04.751	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:53:04.767	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:53:04.845	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:53:04.861	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:53:04.893	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:53:17.857	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:53:33.185	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:53:43.172	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:53:53.497	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:54:05.377	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:54:05.381	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:54:05.388	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:54:05.397	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:54:05.405	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:54:23.772	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:54:37.656	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:54:50.832	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:55:02.302	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:55:19.536	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:55:19.568	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:55:19.601	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:55:19.631	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:55:19.663	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:55:29.722	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:55:41.766	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:55:52.610	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:56:03.465	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:56:14.520	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+2	20:56:27.110	Zones USDJPY,H1: open #328635288 sell stop 0.01 USDJPY at 150.626 sl: 150.639 tp: 150.615 ok
+0	20:56:27.110	Zones USDJPY,H1: INFO: Successfully sent order 328635288: USDJPY, sellstop, 0.01, 150.626
+0	20:56:27.118	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:56:27.142	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:56:27.174	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:56:27.198	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:56:38.925	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:56:55.602	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:57:05.899	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:57:18.895	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:57:32.372	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:57:32.380	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:57:32.380	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:57:32.388	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:57:32.396	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:57:44.611	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:57:56.718	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:58:08.949	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:58:21.370	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:58:34.255	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:58:34.259	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:58:34.264	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:58:34.292	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:58:34.324	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:58:49.376	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:59:01.050	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:59:10.929	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:59:28.605	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:59:40.839	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	20:59:40.847	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	20:59:40.919	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	20:59:40.951	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	20:59:40.983	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	20:59:54.368	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:00:11.970	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:00:26.404	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:00:45.310	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:00:45.338	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:00:45.452	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:00:45.751	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:00:45.900	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:01:03.070	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:01:16.539	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:01:29.962	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:01:40.914	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:01:58.916	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:01:58.949	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:01:58.990	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:01:59.030	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:01:59.062	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:02:18.137	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:02:32.509	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:02:45.134	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:02:58.996	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:02:59.020	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:02:59.052	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:02:59.084	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:02:59.125	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:03:14.778	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:03:25.117	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:03:37.791	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:03:49.994	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:04:03.035	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:04:03.067	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:04:03.107	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:04:03.147	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:04:03.216	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:04:28.428	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:04:45.160	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:04:58.548	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:05:17.111	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:05:17.141	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:05:17.169	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:05:17.201	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:05:17.237	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:05:32.352	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:05:49.359	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:06:05.747	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:06:22.649	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:06:22.681	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:06:22.714	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:06:22.750	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:06:22.768	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:06:38.034	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:06:52.452	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:07:08.112	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:07:22.832	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:07:22.836	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:07:22.842	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:07:22.860	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:07:22.893	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:07:34.265	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:07:48.331	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:08:03.464	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:08:22.646	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:08:32.003	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:08:32.019	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:08:32.035	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:08:32.066	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:08:32.097	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:08:42.776	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:08:55.255	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:09:09.255	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:09:21.071	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:09:36.304	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:09:36.312	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:09:36.312	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:09:36.320	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:09:36.328	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:09:49.672	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:10:00.797	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:10:09.230	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:10:17.465	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:10:27.002	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:10:38.010	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:10:38.029	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:10:38.059	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:10:38.091	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:10:38.106	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:10:48.184	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:11:06.042	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:11:17.299	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:11:26.300	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:11:37.058	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:11:50.844	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:11:50.860	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:11:50.886	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:11:50.909	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:11:50.924	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:12:05.298	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:12:21.875	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:12:40.609	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:12:52.762	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:12:52.770	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:12:52.787	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:12:52.825	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:12:52.856	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:13:03.351	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:13:18.961	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:13:32.825	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:13:43.061	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:13:52.344	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:14:01.788	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:14:01.797	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:14:01.797	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:14:01.805	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:14:01.813	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:14:13.240	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:14:30.067	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:14:40.586	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:14:50.648	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:15:01.165	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:15:18.731	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:15:18.773	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:15:18.806	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:15:18.856	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:15:18.919	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:15:32.868	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:15:46.274	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:15:55.961	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:16:07.631	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:16:25.729	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:16:25.757	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:16:25.786	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:16:25.818	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:16:25.841	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:16:40.803	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:16:52.615	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:17:05.070	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:17:14.877	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:17:34.666	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:17:34.695	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:17:34.732	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:17:34.765	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:17:34.797	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:17:48.803	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:18:01.267	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:18:12.635	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:18:21.961	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:18:32.070	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:18:41.915	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:18:41.943	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:18:41.955	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:18:41.986	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:18:42.018	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:18:51.804	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:19:03.253	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:19:14.465	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:19:26.667	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:19:39.026	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:19:49.739	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:19:49.763	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:19:49.809	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:19:49.846	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:19:49.872	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:20:03.903	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:20:16.580	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:20:29.587	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:20:41.898	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:20:54.421	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:20:54.426	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:20:54.442	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:20:54.466	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:20:54.490	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:21:03.980	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:21:14.910	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:21:26.105	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:21:36.392	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:21:47.169	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:21:59.085	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:21:59.102	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:21:59.116	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:21:59.148	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:21:59.172	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	21:22:11.588	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:22:29.814	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:22:42.851	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:22:54.972	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:23:08.339	Zones USDJPY,H1: ERROR: OPEN_ORDER | Could not open order: invalid stops
+0	21:23:08.347	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530087
+0	21:23:08.352	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530283
+0	21:23:08.381	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530150
+0	21:23:08.402	Zones USDJPY,H1: ERROR: CLOSE_ORDER_SELECT_BY_POS | Could not select order with ticket: 328530263
+0	23:31:45.076	Compiling 'cryptos'
+0	23:33:15.922	Expert Alpha0 EURUSD,H1: loaded successfully
+0	23:33:18.766	Expert Alpha0 EURUSD,H1: removed
+0	23:33:25.275	Expert Alpha0 USDSEK,H1: loaded successfully
+0	23:33:28.381	Alpha0 USDSEK,H1 inputs: fastSMA=10; slowSMA=20; riskPercentage=1.0; bullishColor=32768; bearishColor=255; backgroundColor=16777215; 
+0	23:33:28.459	Alpha0 USDSEK,H1: Lot Size: 979.7652
+0	23:33:28.459	Alpha0 USDSEK,H1: initialized
+0	23:39:36.828	Alpha0 USDSEK,H1: uninit reason 2
+0	23:39:36.828	Expert Alpha0 USDSEK,H1: removed
+0	23:39:36.875	Expert Alpha0 USDSEK,H1: loaded successfully
+0	23:39:36.975	Alpha0 USDSEK,H1: Lot Size: 979.7656
+0	23:39:36.975	Alpha0 USDSEK,H1: initialized
+0	23:47:21.479	Alpha0 USDSEK,H1: uninit reason 2
+0	23:47:21.479	Expert Alpha0 USDSEK,H1: removed
+0	23:47:21.510	Expert Alpha0 USDSEK,H1: loaded successfully
+0	23:47:21.588	Alpha0 USDSEK,H1: Lot Size: 979.7634
+0	23:47:21.588	Alpha0 USDSEK,H1: initialized
